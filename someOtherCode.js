@@ -1,1 +1,1 @@
-const status = 'unhappy';
+const status = 'happy';
